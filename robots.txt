@@ -1,0 +1,11 @@
+# robots.txt — DDLC Persian Mod
+# Allow all crawlers to index the entire site
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://kiyanfnaflover-ui.github.io/ddlc-persian-language/sitemap.xml
+
+# Crawl-delay (optional, respectful to servers)
+Crawl-delay: 1
